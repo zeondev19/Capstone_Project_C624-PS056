@@ -1,4 +1,4 @@
-![logo teman cater](https://github.com/zeondev19/Capstone_Project_C624-PS056/assets/135107039/22b0a070-bb4b-4270-bafe-f4e88ecbbddf)
+
 <p align="center"><a href="" target="_blank"><img src="https://github.com/zeondev19/Capstone_Project_C624-PS056/assets/135107039/22b0a070-bb4b-4270-bafe-f4e88ecbbddf" width="400" alt="Teman Cater"></a></p>
 
 <h1 align="center"><b>Teman Cater - Teman terpercaya untuk kebutuhan catering anda</b></h1>
