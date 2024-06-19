@@ -1,5 +1,5 @@
 
-<p align="center"><a href="" target="_blank"><img src="https://github.com/zeondev19/Capstone_Project_C624-PS056/assets/135107039/22b0a070-bb4b-4270-bafe-f4e88ecbbddf" width="400" alt="Teman Cater"></a></p>
+<p align="center"><a href="https://temancater.xyz/" target="_blank"><img src="https://github.com/zeondev19/Capstone_Project_C624-PS056/assets/135107039/22b0a070-bb4b-4270-bafe-f4e88ecbbddf" width="400" alt="Teman Cater"></a></p>
 
 <h1 align="center"><b>Teman Cater - Teman terpercaya untuk kebutuhan catering anda</b></h1>
 
@@ -15,7 +15,7 @@ Proyek TemanCater merupakan sebuah platform website yang bertujuan untuk membant
 - [Working Doc](https://docs.google.com/document/d/1zmk--U6bOIFGtG29zrIpcWRHh2zBx2yopy0raeAVHLc/edit?usp=sharing)
 - [User Guide](https://www.canva.com/design/DAGIeSznJyM/_OKJV_3WFpRSoVcW-AY63g/edit)
 - [Slide Presentasi](https://www.canva.com/design/DAGIZOv4bX8/Gz5ZYJrRZ2qcpo-50s9oog/view?utm_content=DAGIZOv4bX8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-- [Video Presentasi]()
+- [Video Presentasi](https://youtu.be/dzvdcvrvx8g)
 - [Video Demo Aplikasi](https://youtu.be/irYg7qZp1D0)
 
 ## Resources
@@ -23,7 +23,6 @@ Proyek TemanCater merupakan sebuah platform website yang bertujuan untuk membant
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="150" alt="Logo Javascript"></span>
 <a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="150" alt="Logo PHP"></a>
 <a href="https://laravel.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="150" alt="Logo Laravel"></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" width="200" alt="Logo TailwindCSS"></a>
 
 ## Instalasi / Cara menjalankan di lokal
 1. Clone proyek
